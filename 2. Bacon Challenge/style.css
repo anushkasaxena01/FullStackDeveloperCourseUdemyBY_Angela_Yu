@@ -1,0 +1,30 @@
+/****     Tag Selectors *******/
+
+h1 {
+    color: brown;
+    font-size: 100px;
+}
+
+
+/*img {
+    background-color: brown;
+}
+*/
+
+
+/**********CLASS SELECTORS********/
+
+.coffee {
+    background-color: brown;
+}
+
+.Broccoli {
+    background-color: green;
+}
+
+
+/****heading selection***********/
+
+#heading {
+    color: blue;
+}
